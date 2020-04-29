@@ -1,3 +1,0 @@
-- Themes
-  - <a href="#" data-link-title="Dark">Dark</a>
-  - <a href="#" data-link-title="Light">Light</a>
