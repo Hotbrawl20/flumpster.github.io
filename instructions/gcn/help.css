@@ -18,10 +18,10 @@ div.card {
   div.header {
     background-color: #2196f3;
     color: white;
-    padding: 8px;
+    padding: 1px;
     font-size: 30px;
   }
   
   div.container {
-    padding: 10px;
+    padding: 2px;
   }
