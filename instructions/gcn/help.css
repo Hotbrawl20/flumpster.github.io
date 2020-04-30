@@ -1,7 +1,32 @@
 html, body, h1, h2, h3, h4, h5, h6 {font-family: Arial, Helvetica, "Times New Roman";}
 body {background-color: #d3d3d3;}
 body {color: #000000;}
+body {margin-right: 49px;}
 h1 {color: #000000;}
 h2 {color: #000000;}
 h3 {color: #000000;}
 img {border: 1px solid black;}
+img{width:100%; max-width:1065px;}
+
+div.card {
+    max-width:1065px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-left: 41px;
+  }
+  
+  div.header {
+    background-color: #2196f3;
+    color: white;
+    padding: 8px;
+    font-size: 30px;
+  }
+  
+  div.container {
+    padding: 10px;
+  }
+
+  #page-wrap {
+    width: 800px;
+    margin: 0 auto;
+}
