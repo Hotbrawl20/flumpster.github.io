@@ -76,7 +76,7 @@ table {
 	font-family:Arial, sans-serif;
 	font-size:14px;
 	overflow:hidden;
-	padding:2px 10px;
+	padding:2px 4px;
 	word-break:normal;
 }
 .tg th{
@@ -89,7 +89,7 @@ table {
 	font-size:14px;
 	font-weight:normal;
 	overflow:hidden;
-	padding:2px 10px;
+	padding:2px 4px;
 	word-break:normal;
 }
 .tg .tg-white{
@@ -115,3 +115,27 @@ table {
 	text-align:center;
 	vertical-align:middle
 }
+
+.namewidth {
+	width: 250px;
+}
+
+.regionwidth {
+	width: 30px;
+}
+
+.hostwidth {
+	width: 200px;
+}
+
+.gamepadwidth {
+	width: 30px;
+  }
+
+.statuswidth {
+	width: 30px;
+  }
+
+.noteswidth {
+	width: 450px;
+  }
