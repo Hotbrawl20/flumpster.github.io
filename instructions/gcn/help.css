@@ -81,6 +81,7 @@ table {
 	overflow:hidden;
 	padding:2px 4px;
 	word-break:normal;
+	height:33px;
 }
 .tg th{
 	background-color:#409cff;
