@@ -120,12 +120,16 @@ table {
 	vertical-align:middle
 }
 
+.indexwidth {
+	width: 12px;
+}
+
 .namewidth {
-	width: 250px;
+	width: 220px;
 }
 
 .regionwidth {
-	width: 30px;
+	width: 45px;
 }
 
 .hostwidth {
@@ -133,13 +137,13 @@ table {
 }
 
 .gamepadwidth {
-	width: 30px;
+	width: 62px;
 }
 
 .statuswidth {
-	width: 30px;
+	width: 40px;
 }
 
 .noteswidth {
-	width: 450px;
+	width: 486px;
 }
