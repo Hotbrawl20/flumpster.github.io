@@ -121,15 +121,15 @@ table {
 }
 
 .indexwidth {
-	width: 12px;
+	min-width: 12px;
 }
 
 .namewidth {
-	width: 220px;
+	width: 230px;
 }
 
 .regionwidth {
-	width: 45px;
+	min-width: 45px;
 }
 
 .hostwidth {
@@ -137,13 +137,13 @@ table {
 }
 
 .gamepadwidth {
-	width: 62px;
+	min-width: 62px;
 }
 
 .statuswidth {
-	width: 40px;
+	min-width: 40px;
 }
 
 .noteswidth {
-	width: 486px;
+	width: 476px;
 }
