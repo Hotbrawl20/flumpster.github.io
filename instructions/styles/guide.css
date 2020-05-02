@@ -120,6 +120,19 @@ table {
 	vertical-align:middle
 }
 
+/* Start Page Table */
+.startrow1width {
+	width: 317px;
+}
+
+.startrow2width {
+	width: 317px;
+}
+
+.startrow3width {
+	width: 317px;
+}
+
 /* Wii Table */
 .indexwidth {
 	min-width: 12px;
