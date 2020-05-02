@@ -120,6 +120,7 @@ table {
 	vertical-align:middle
 }
 
+/* Wii Table */
 .indexwidth {
 	min-width: 12px;
 }
@@ -146,4 +147,25 @@ table {
 
 .noteswidth {
 	width: 476px;
+}
+
+/* GBA Table */
+.gbaindexwidth {
+	min-width: 12px;
+}
+
+.gbanamewidth {
+	width: 230px;
+}
+
+.gbaregionwidth {
+	min-width: 45px;
+}
+
+.gbahostwidth {
+	width: 200px;
+}
+
+.gbanoteswidth {
+	width: 563px;
 }
