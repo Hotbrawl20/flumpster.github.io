@@ -168,7 +168,7 @@ table {
 }
 
 .gbanamewidth {
-	width: 230px;
+	width: 260px;
 }
 
 .gbaregionwidth {
@@ -176,9 +176,13 @@ table {
 }
 
 .gbahostwidth {
-	width: 200px;
+	width: 210px;
+}
+
+.gbastatuswidth {
+	min-width: 62px;
 }
 
 .gbanoteswidth {
-	width: 563px;
+	width: 476px;
 }
