@@ -255,3 +255,5 @@ table {
 .close:hover { background: red; }
 
 .close:visited { color: white; }
+
+.close:link { color: white; }
